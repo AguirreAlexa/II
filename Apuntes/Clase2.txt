@@ -1,0 +1,10 @@
+Comandos básicos
+
+ls : Muestra los archivos de la carpeta.
+cd .. : Nos manda una carpeta atras.
+rm : Elimina el archivo.
+mv : Mueve el archivo indicado.
+clear : Vacia la terminal.
+cd : Me envia a la carpeta indicada.
+mkdir : Crea carpeta.
+touch : Crea archivo.

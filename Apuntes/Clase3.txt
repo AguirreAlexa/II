@@ -1,0 +1,15 @@
+Comandos de Git
+
+git init : Crea un repositorio local.
+git config user.name "" : Usuario de gitHub.
+git config user.email "": Email de gitHub.
+git remote add origin link : Nos linkea con el repositorio remoto.
+
+git add . : Agrega archivos al repositorio local.
+git commit -m "" : Trackea los cambios al repositorio local.
+git push origin master: Envia los cambios comiteados al remoto.
+git status: Seguimiento del estado.
+
+git clone : Bajas un remoto a la computadora.
+git pull origin master : Actualizas el clonado.
+

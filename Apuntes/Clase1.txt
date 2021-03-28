@@ -1,0 +1,7 @@
+Historia de la informática
+
+1. El primer instrumento relacionado con una computadora fue el Abaco.
+2. Si bien Charles Babbage se considera fue el creador de la primer computadora, falleció antes de ver el 
+producto final. Aquel que tomó inspiración y la llevo a cabo fue Alan Turing para poder decifrar los mensajes
+alemanes en la segunda guerra mundial.
+3. Junto con las chicas del refrigerador, se generó una importante impronta femenina en el mundo de la tecnología.
