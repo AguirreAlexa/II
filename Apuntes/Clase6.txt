@@ -1,0 +1,17 @@
+TIPOS DE MEMORIA
+Memoria principal: Almacena datos o info de forma temporal. Se puede acceder de forma directa, pero solo 
+se encuentra disponible cuando la computadora esta encendida. Capacidad limitada. Mayor velocidad y costo.
+    - ROM y Caché.
+Memoria secundaria:Almacena datos de forma permanente. No se puede acceder a los mismos de forma directa, 
+unicamente a traves de buses. De tipo no volatil. Capacidad amplia. Menor velocidad y costo.
+    - Magneticos, SSD y opticos.
+
+REGISTROS: Memoria de muy alta velocidad que se utiliza para acceder a datos importantes de manera rapida.
+CACHE: Se divide en niveles de jerarquia por cercania, velocidad y capacidad.
+
+CARACTERISTICAS DE LA MEMORIA RAM(Random Access Memory)
+Velocidad
+Capacidad
+Latencia
+Voltaje
+
