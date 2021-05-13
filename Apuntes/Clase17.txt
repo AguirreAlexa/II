@@ -1,0 +1,13 @@
+﻿Escenario para grupo 2
+
+
+* Empresa ya consolidada que se dedica a brindar servicios informáticos,  la mayoría de sus empleados trabajan en remoto, pero hay algunos que van on site, necesitan una intranet más segura, y la información confidencial de la empresa tiene buena seguridad lógica pero muy poca física, aunque igualmente desean tener asesoramiento en seguridad lógica, no tienen problemas en invertir dinero pero sus empleados se resisten al cambio de nuevas restricciones. Poseen una página web donde brindan sus servicios y los clientes pueden contactarse a través de la misma.
+
+
+        Plan de Seguridad:
+
+
+* Invertir en UPS para que no se corte la conexión entre la empresa y los empleados que trabajan remotamente.
+* Invertir en alarmas contra intrusos (porque hay presupuesto)
+* Hacer un respaldo de datos.
+* Sistemas Redundantes
